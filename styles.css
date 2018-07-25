@@ -11,3 +11,18 @@
 .navbar-inverse .navbar-nav>li>a {
     color: white;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    min-height: 50px;
+ }
+
+ .footer-p {
+   margin-top: 17px !important;
+ }
