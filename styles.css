@@ -3,6 +3,10 @@
     min-height: 60px;
 }
 
+.navbar-brand {
+
+}
+
 .navbar-inverse .navbar-brand {
     color: white;
     font-size: xx-large;
@@ -64,7 +68,6 @@ h3 {
 #myBtn:hover {
     background-color: wheat; /* Add a dark-grey background on hover */
 }
-
 
 .form-group {
     background-color: #FAFAFA;
