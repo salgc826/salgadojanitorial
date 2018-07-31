@@ -1,6 +1,6 @@
 .container-fluid {
-    background-color: black;
-    min-height: 60px;
+    background-color: #b666d2;
+    min-height: 90px;
 }
 
 
@@ -18,7 +18,7 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: black;
+    background-color: #b666d2;
     color: white;
     text-align: center;
     min-height: 60px;
@@ -27,24 +27,6 @@
  .footer-p {
    margin-top: 17px !important;
  }
-
- .card {
-    border-color: #c25975;
-}
-
-.text-muted {
-    color: #c25975!important;
-}
-
-.small,
-small {
-    color: #328383;
-}
-
-.h3,
-h3 {
-    text-align: center;
-}
 
 #myBtn {
     display: none; /* Hidden by default */
@@ -71,4 +53,8 @@ h3 {
 	padding: 10px 40px 60px;
 	margin: 10px 0px 60px;
 	border: 1px solid GREY;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+ background-color: #b666d2 !important;
 }
