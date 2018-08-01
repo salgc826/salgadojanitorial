@@ -19,6 +19,10 @@
     margin-right: auto;
 }
 
+.licensed{
+    text-align: center;
+}
+
 .navbar-inverse .navbar-nav>li>a {
     color: white;
 }
